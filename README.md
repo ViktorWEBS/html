@@ -19,5 +19,5 @@ __Tests are in the `html/` directory of the [web-platform-tests repository](http
 
 ### Звинувачувати (Blame)
 
-Оскільки файл `джерело` завеликий для [утиліти звинувачення GitHub](https://help.github.com/articles/tracing-changes-in-a-file/), використовуйте [звинувачення за `джерело` на searchfox]  (https://searchfox.org/whatwg-html/source/source).<br>
+Оскільки файл `source` завеликий для [утиліти звинувачення GitHub](https://help.github.com/articles/tracing-changes-in-a-file/), використовуйте [звинувачення за `source` на searchfox]  (https://searchfox.org/whatwg-html/source/source).<br>
 __As the `source` file is too large for [GitHub's blame utility](https://help.github.com/articles/tracing-changes-in-a-file/), use [blame for `source` on searchfox](https://searchfox.org/whatwg-html/source/source) instead.__
