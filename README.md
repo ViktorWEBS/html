@@ -17,7 +17,7 @@
 Тести знаходяться в каталозі `html/`[web-platform-tests repository](https://github.com/web-platform-tests/wpt).<br>
 >__Tests are in the `html/` directory of the [web-platform-tests repository](https://github.com/web-platform-tests/wpt).__
 
-### Звинувачувати (Blame)
+### Blame
 
 Оскільки файл `source` завеликий для [утиліти blame GitHub](https://help.github.com/articles/tracing-changes-in-a-file/), використовуйте [blame для `source` на searchfox](https://searchfox.org/whatwg-html/source/source).<br>
 >__As the `source` file is too large for [GitHub's blame utility](https://help.github.com/articles/tracing-changes-in-a-file/), use [blame for `source` on searchfox](https://searchfox.org/whatwg-html/source/source) instead.__
