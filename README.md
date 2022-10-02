@@ -1,3 +1,5 @@
+> У цьому репозиторії вивчення розмітки HTML
+
 This repository hosts the [HTML Standard](https://html.spec.whatwg.org/).
 
 ### Code of conduct
