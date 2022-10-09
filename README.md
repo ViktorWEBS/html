@@ -1,6 +1,6 @@
 > У цьому репозиторії вивчення розмітки HTML
 
-__Цей репозиторій містить [HTML Standard](https://html.spec.whatwg.org/).__
+__Цей репозиторій містить [HTML Standard](https://html.spec.whatwg.org/multipage/).__
 
 ### Норми поведінки (Code of conduct)
 
